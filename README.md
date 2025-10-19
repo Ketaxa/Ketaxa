@@ -1,4 +1,4 @@
-![Header](https://github.com/Ketaxa/Ketaxa/blob/main/assets/Ketaxa.jpg)
+![Header](https://github.com/Ketaxa/Ketaxa/blob/main/assets/Header.jpg)
 
 About me
 
