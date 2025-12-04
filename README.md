@@ -1,4 +1,4 @@
-# Beginner Web Developer :call_me_hand:
+# Beginner Web Developer &#129489;&#8205;&#128187;
 
 #### I am exploring and implementing new tools :hammer_and_wrench: to create my projects :card_index_dividers: . I am open to new ways and opportunities :motorway:.
 
